@@ -1,5 +1,8 @@
 PDF-Python
 
+This is a simple app to split, merge, rotate PDF files or convert image file to PDF file.
+App is built using Python3, Flask, PyPDF2, img2pdf and HTML.
+
 Steps on how to use this project:
 1.	Download this repository (PDF-Python) and save it at any location on your computer.
 2.	Install Python 2.7 or Python 3
