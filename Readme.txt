@@ -30,5 +30,5 @@ To run the app:
 (pdf_env) PS C:\Users\Username\Path\PDF-Python > flask run
 
 When the app runs successfully copy the link http://127.0.0.1:5000/ in browser.
-You use the app to split, merge, rotate or convert images to pdf.
+You can use the app to split, merge, rotate PDF files or convert image file to PDF file.
 All the files will be automatically downloaded in the “downloads” folder within the PDF-Python folder.
